@@ -20,7 +20,7 @@ jobs:
 
 
       - name: Install mustache
-        run: sudo apt-get install mustache
+        run: sudo apt-get install ruby-mustache
 
       - name: Install pandoc
         run: sudo apt-get install pandoc
