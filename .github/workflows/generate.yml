@@ -17,8 +17,8 @@ jobs:
       - name: Install mustache
         run: sudo apt-get install ruby-mustache
 
-      - name: Install pandoc and xelatex
-        run: sudo apt-get install pandoc texlive-xetex
+      - name: Install pandoc
+        run: sudo apt-get install pandoc
         
       - name: Generate new statute version
         run: make
@@ -32,7 +32,7 @@ jobs:
             if [-z "$(git status --porcelain)"]; then
                echo "::set-output name=push::false"
             else
-               git commit -m "add generated files" -a
+               git commit -m "update generated files" -a
                echo "::set-output name=push::true"
             fi
         shell: bash
