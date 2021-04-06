@@ -21,30 +21,10 @@ jobs:
         run: sudo apt-get install pandoc
         
       - name: Generate new statute version
-        run: make
+        run: make clean && make
 
       - name: Push to built branch
         uses: Automattic/action-commit-to-branch@master
         with:
           branch: 'gh-pages'
           commit_message: 'update generated files'
-
-#      - name: Commit files
-#        id: commit
-#        run: |
-#          git config --local user.email "action@github.com"
-#            git config --local user.name "github-actions"
-#            git add --all
-#            if [-z "$(git status --porcelain)"]; then
-#               echo "::set-output name=push::false"
-#            else
-#               git commit -m "update generated files" -a
-#               echo "::set-output name=push::true"
-#            fi
-#        shell: bash
-#
-#      - name: Push changes
-#        if: steps.commit.outputs.push == 'true'
-#        uses: ad-m/github-push-action@master
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
