@@ -10,11 +10,11 @@
     }
   },
   "target": {
-    "popular": true,
-    "authors": true,
+    "popular": false,
+    "authors": false,
     "children": false,
-    "sport": true,
-    "equal": true
+    "sport": false,
+    "equal": false
   },
   "struct": {
     "o1": true,
