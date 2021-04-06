@@ -12,7 +12,7 @@
   "target": {
     "popular": true,
     "authors": true,
-    "children": true,
+    "children": false,
     "sport": true,
     "equal": true
   },
