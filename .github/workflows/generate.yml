@@ -20,10 +20,10 @@ jobs:
 
 
       - name: Install mustache
-        run: apt install mustache --y
+        run: sudo apt-get install mustache
 
       - name: Install pandoc
-        run: apt install pandoc --y
+        run: sudo apt-get install pandoc
         
       - name: Generate new statute version
         run: make
