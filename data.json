@@ -1,0 +1,24 @@
+{
+  "name": {
+    "short": {
+      "ru": "НАЗ",
+      "de": "NVZ"
+    },
+    "full": {
+      "ru": "Новая ассоциация знатоков",
+      "de": "Neue Verein Znatokov"
+    }
+  },
+  "target": {
+    "popular": true,
+    "authors": true,
+    "children": true,
+    "sport": true,
+    "equal": true
+  },
+  "struct": {
+    "o1": true,
+    "o2": false,
+    "o3": false
+  }
+}
