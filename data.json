@@ -13,7 +13,7 @@
     "popular": true,
     "authors": false,
     "children": false,
-    "sport": false,
+    "sport": true,
     "equal": false
   },
   "struct": {
