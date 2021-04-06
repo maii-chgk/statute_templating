@@ -23,8 +23,22 @@ jobs:
       - name: Generate new statute version
         run: make clean && make
 
-      - name: Push to built branch
-        uses: Automattic/action-commit-to-branch@master
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+            git config --local user.name "github-actions"
+            git add statute.html statute.docx statute.md
+            if [-z "$(git status --porcelain)"]; then
+               echo "::set-output name=push::false"
+            else
+               git commit -m "update generated files" -a
+               echo "::set-output name=push::true"
+            fi
+        shell: bash
+
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
         with:
-          branch: 'gh-pages'
-          commit_message: 'update generated files'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
