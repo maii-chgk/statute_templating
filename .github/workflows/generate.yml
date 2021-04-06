@@ -14,9 +14,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: ruby/setup-ruby@v1.68.0
-        with:
-          bundler-cache: true
+#      - uses: ruby/setup-ruby@v1.68.0
+#        with:
+#          bundler-cache: true
+
+
+      - name: Install mustache
+        run: apt install mustache --y
 
       - name: Install pandoc
         run: apt install pandoc --y
