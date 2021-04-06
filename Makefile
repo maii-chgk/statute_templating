@@ -6,4 +6,4 @@ statute.docx statute.html: statute.md
 statute.md: *.mustache.md data.json
 	mustache data.json statute.mustache.md > $@
 clean:
-	rm statute.md statute.pdf statute.docx statute.html
+	rm -f statute.md statute.pdf statute.docx statute.html
