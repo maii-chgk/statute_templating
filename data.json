@@ -10,7 +10,7 @@
     }
   },
   "target": {
-    "popular": false,
+    "popular": true,
     "authors": false,
     "children": false,
     "sport": false,
