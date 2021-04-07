@@ -1,8 +1,8 @@
 all: statute.html statute.docx
 statute.pdf: statute.md
-	pandoc --variable mainfont=Georgia --pdf-engine=xelatex --standalone $< -o $@
+	pandoc --variable mainfont=Georgia --pdf-engine=xelatex --number-sections --standalone $< -o $@
 statute.docx statute.html: statute.md
-	pandoc --standalone $< -o $@
+	pandoc --number-sections --standalone $< -o $@
 statute.md: statute.mustache.md *.md.mustache data.json
 	mustache data.json statute.mustache.md > $@
 clean:
