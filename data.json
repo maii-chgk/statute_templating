@@ -14,12 +14,14 @@
     "formal": "**ОПЦИЯ**",
     "missed": "**ОПЦИЯ**",
     "missedAssemblies": "**2, 3, 4**",
+    "sanctions": "**ОПЦИЯ**",
     "initiativeSize": "**5 %, 10 %, 15 %**"
   },
   "s1": {
     "selected": "**ПРОЕКТ 1**",
     "quorum": "**10 % / 20 % / 25 %**",
-    "executiveTime": "**2 года / 1 / 4**"
+    "executiveTime": "**2 года / 1 / 4**",
+    "executiveCount": "**менее 5 и более 15 / менее 5 и более 11**"
   },
   "s2": {
     "selected": "**ПРОЕКТ 2**"
