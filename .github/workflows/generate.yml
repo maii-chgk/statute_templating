@@ -21,7 +21,7 @@ jobs:
         run: sudo apt-get install pandoc
         
       - name: Generate new statute version
-        run: make clean && make
+        run: make clean && make statute.md
 
       - name: Commit files
         id: commit
