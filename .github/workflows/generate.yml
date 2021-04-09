@@ -25,7 +25,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
             git config --local user.name "github-actions"
-            git add statute.html statute.docx statute.md
+            git add statute.md
             if [-z "$(git status --porcelain)"]; then
                echo "::set-output name=push::false"
             else
