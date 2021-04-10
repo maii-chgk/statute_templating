@@ -34,7 +34,7 @@
     "executiveTime": "**2 года / 4 года / 6 лет**",
     "executiveTime_de": "**2 Jahre / 4 Jahre / 6 Jahre**",
     "executiveTerm": "**3 сроков / 4 сроков / не включать пункт**",
-    "executiveTerm_de": "**3 / 4 Amtszeiten**",
+    "executiveTerm_de": "**3 / 4 Amtszeiten / diesen Punkt nicht zu berücksichtigen**",
     "executiveCount": "**не менее 3 / 5 / 7 и не более 11 / 13 / 15**",
     "executiveCount_de": "**weniger als 3 / 5 / 7 und mehr als 11 / 13 / 15**",
     "senate": {
@@ -50,10 +50,10 @@
     "selected": "**ПРОЕКТ 3**"
   },
   "quorum": {
-    "statute": "**2/3 участников заседания / 2/3 участников заседания при увеличенном кворуме / 2/3 участников заседания, если они составляют большинство членов Организации**",
-    "statute_de": "**2/3 der Versammlungsteilnehmer / 2/3 der Versammlungsteilnehmer mit erhöhtem Quorum / 2/3 der Versammlungsteilnehmer, wenn sie die Mehrheit des Vereins bilden**",
-    "dissolution": "**3/4 участников заседания / 2/3 участников заседания, если они составляют большинство членов Организации / 2/3 членов Организации**",
-    "dissolution_de": "**3/4 der Teilnehmer der Mitgliederversammlung / 2/3 der Teilnehmer an der Mitgliederversammlung, wenn sie die Mehrheit der Mitglieder des Vereins bilden / 2/3 der Mitglieder des Vereins**"
+    "statute": "**2/3 участников заседания / 2/3 участников заседания при кворуме 50 % / 2/3 членов Организации**",
+    "statute_de": "**2/3 der Versammlungsteilnehmer / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder**",
+    "dissolution": "**3/4 участников заседания / 2/3 участников заседания при кворуме 50 % / 2/3 членов Организации**",
+    "dissolution_de": "**3/4 der Teilnehmer der Mitgliederversammlung / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder**"
   },
   "target": {
     "popular": true,
