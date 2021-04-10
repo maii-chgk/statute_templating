@@ -20,17 +20,25 @@
     "selected": "**ПРОЕКТ 1**",
     "quorum": "**10 % / 20 % / 25 %**",
     "executiveTime": "**1 год / 2 года / 4 года**",
+    "executiveTime_de": "**1 Jahre / 2 Jahre / 4 Jahre**",
     "executiveCount": "**менее 5 и более 15 / менее 5 и более 11**",
-    "revisionTerm": "**2 года / 4 года / 6 лет**"
+    "executiveCount_de": "**weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11**",
+    "revisionTerm": "**2 года / 4 года / 6 лет**",
+    "revisionTerm_de": "**2 Jahre / 4 Jahre / 6 Jahre**"
   },
   "s2": {
     "selected": "**ПРОЕКТ 2**",
     "revision": "**ОПЦИЯ**",
     "assemblyTime": "**1 год / 2 года / 3 года**",
+    "assemblyTime_de": "**1 Jahr / 2 Jahre / 3 Jahre**",
     "assemblyQuorum": "**10 % / 30 % / 50 % действительных членов Организации (либо 10% / 20% / 30% от всех членов Организации, при не принятом варианте о действительных членах)**",
+    "assemblyQuorum_de": "**10 % / 30 % / 50 % der Vollmitglieder (bzw. 10 % / 20 % / 30 % der Vollmitglieder im Falle der nicht gewählten Option der Vollmitgliedschaft)**",
     "executiveTime": "**2 года / 4 года / 6 лет**",
+    "executiveTime_de": "**2 Jahre / 4 Jahre / 6 Jahre**",
     "executiveTerm": "**3 сроков / 4 сроков / не включать пункт**",
+    "executiveTerm_de": "**3 / 4 Amtszeiten**",
     "executiveCount": "**не менее 3 / 5 / 7 и не более 11 / 13 / 15**",
+    "executiveCount_de": "**weniger als 3 / 5 / 7 und mehr als 11 / 13 / 15**",
     "senate": {
       "v1": "**ВАРИАНТ 1**",
       "v2": "**ВАРИАНТ 2**",
@@ -39,7 +47,8 @@
       "executiveDissolution": "**½ / ⅔ / ¾**"
     },
     "separateInvestigationPunishment": "**ОПЦИЯ**",
-    "revisionTerm": "**2 года / 4 года / 6 лет**"
+    "revisionTerm": "**2 года / 4 года / 6 лет**",
+    "revisionTerm_de": "**2 Jahre / 4 Jahre / 6 Jahre**"
   },
   "s3": {
     "selected": "**ПРОЕКТ 3**"
