@@ -46,7 +46,9 @@
   },
   "quorum": {
     "statute": "**2/3 участников заседания / 2/3 участников заседания при увеличенном кворуме / 2/3 участников заседания, если они составляют большинство членов Организации**",
-    "dissolution": "**3/4 участников заседания / 2/3 участников заседания, если они составляют большинство членов Организации / 2/3 членов Организации**"
+    "statute_de": "**2/3 der Versammlungsteilnehmer / 2/3 der Versammlungsteilnehmer mit erhöhtem Quorum / 2/3 der Versammlungsteilnehmer, wenn sie die Mehrheit des Vereins bilden**",
+    "dissolution": "**3/4 участников заседания / 2/3 участников заседания, если они составляют большинство членов Организации / 2/3 членов Организации**",
+    "dissolution_de": "**3/4 der Teilnehmer der Mitgliederversammlung / 2/3 der Teilnehmer an der Mitgliederversammlung, wenn sie die Mehrheit der Mitglieder des Vereins bilden / 2/3 der Mitglieder des Vereins**"
   },
   "target": {
     "popular": true,
