@@ -22,9 +22,7 @@
     "executiveTime": "**1 год / 2 года / 4 года**",
     "executiveTime_de": "**1 Jahre / 2 Jahre / 4 Jahre**",
     "executiveCount": "**менее 5 и более 15 / менее 5 и более 11**",
-    "executiveCount_de": "**weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11**",
-    "revisionTerm": "**2 года / 4 года / 6 лет**",
-    "revisionTerm_de": "**2 Jahre / 4 Jahre / 6 Jahre**"
+    "executiveCount_de": "**weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11**"
   },
   "s2": {
     "selected": "**ПРОЕКТ 2**",
@@ -46,9 +44,7 @@
       "assemblyConvocation": "**½ / ⅔ / ¾**",
       "executiveDissolution": "**½ / ⅔ / ¾**"
     },
-    "separateInvestigationPunishment": "**ОПЦИЯ**",
-    "revisionTerm": "**2 года / 4 года / 6 лет**",
-    "revisionTerm_de": "**2 Jahre / 4 Jahre / 6 Jahre**"
+    "separateInvestigationPunishment": "**ОПЦИЯ**"
   },
   "s3": {
     "selected": "**ПРОЕКТ 3**"
