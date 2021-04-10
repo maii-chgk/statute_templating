@@ -133,7 +133,7 @@ title: Устав организации «**ПОЛНОЕ НАЗВАНИЕ НА 
 ## Der Kontrollausschuss
 
 1. Der Kontrollausschuss ist ein ständiges Organ, das die Arbeit anderer Organe bewertet und überwacht.
-2. Die Amtszeit der Mitglieder des Kontrollausschusses beträgt **2 Jahre / 4 Jahre / 6 Jahre**.
+2. Die Amtszeit der Mitglieder des Kontrollausschusses beträgt **1 Jahre / 2 Jahre / 4 Jahre**.
 3. Die Anzahl der Mitglieder des Kontrollausschusses wird von der Mitgliederversammlung festgelegt, muss aber mindestens 3 betragen.
 4. Ein Mitglied des Kontrollausschusses kann nicht gleichzeitig Mitglied des Vorstands oder einer Arbeitsgruppe sein.
 5. Der Kontrollausschuss:
