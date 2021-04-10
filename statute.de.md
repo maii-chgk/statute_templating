@@ -1,5 +1,5 @@
 ---
-title: Устав организации «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦКОМ ЯЗЫКЕ**»
+title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦКОМ ЯЗЫКЕ**»
 ---
 
 # Allgemeine Bestimmungen
@@ -87,14 +87,14 @@ title: Устав организации «**ПОЛНОЕ НАЗВАНИЕ НА 
 4. Die Mitglieder des Vereins sind spätestens 21 Tage vor der Mitgliederversammlung in schriftlicher oder elektronischer Form zur Mitgliederversammlung einzuladen.
 5. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand spätestens 14 Tage vor der Versammlung aufgestellt und veröffentlicht. Das Recht, Themen in die Tagesordnung einzubringen, haben alle Gremien sowie Initiativgruppen. Im letzteren Fall kann das Thema auch nach der Veröffentlichung auf die Tagesordnung gesetzt werden.
 6. Die Beschlussfähigkeit der Mitgliederversammlung beträgt **10 % / 20 % / 25 %** der Mitglieder, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
-7. Beschlüsse der Mitgliederversammlung, außer denen, die in den [Ziffern 5.1](#ref5_1) und [5.2](#ref5_2) beschrieben sind, werden mit einfacher Mehrheit beschlossen.
+7. Beschlüsse der Mitgliederversammlung, außer denen, die in den [Punkten 5.1](#ref5_1) und [5.2](#ref5_2) beschrieben sind, werden mit einfacher Mehrheit beschlossen.
 8. Zur ausschließlichen Zuständigkeit der Mitgliederversammlung gehören die folgenden Angelegenheiten:
     - Annahme der Statuten und deren Änderungen.
     - Zustimmung zu den Dokumenten, die die Regeln der intellektuellen Spielen bestimmen.
     - Wahl der Mitglieder des Vorstands, der Arbeitsgruppen, der Kontrollausschusses.
     - Vorzeitige Beendigung der Befugnisse anderer Organe.
     - Bildung und Auflösung der Arbeitsgruppen (mit Ausnahme der temporären), Zustimmung zu den Dokumenten, die ihre Tätigkeit regeln.
-    - Gründung und Auflösung zusätzlicher, nicht in [Abschnitt 4.1.1](#ref_p1_4_1_1) aufgeführter Organe.
+    - Gründung und Auflösung zusätzlicher, nicht in [Punkt 4.1.1](#ref_p1_4_1_1) aufgeführter Organe.
     - Annahme von Berichte anderer Organe über deren Aktivitäten.
     - Festsetzung und Aufhebung von Mitgliedsbeiträgen.
     - Auflösung des Vereins.
@@ -173,7 +173,7 @@ title: Устав организации «**ПОЛНОЕ НАЗВАНИЕ НА 
 5. Die Mitgliederversammlung ist allen Mitgliedern mindestens 30 Tage im Voraus anzukündigen. Eine Benachrichtigung per E-Mail ist zulässig. Die Tagesordnung der Mitgliederversammlung ist spätestens 14 Tage vor der Sitzung zu veröffentlichen.
 6. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand aufgestellt. Der Vorstand ist verpflichtet, die Themen in die Tagesordnung aufzunehmen, deren Besprechung in der Mitgliederversammlung vom Senat, den Arbeitsgruppen oder einer Initiativgruppe für notwendig erklärt wurde. Nur eine Initiativgruppe kann nach der Veröffentlichung Themen zur Tagesordnung hinzufügen.
 7. Die Mitgliederversammlung ist beschlussfähig mit **10 % / 30 % / 50 % der Vollmitglieder (bzw. 10 % / 20 % / 30 % der Vollmitglieder im Falle der nicht gewählten Option der Vollmitgliedschaft)**, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
-8. Beschlüsse der Mitgliederversammlung werden mit einfacher Stimmenmehrheit gefasst, mit Ausnahme der in [Ziffern 5.1](#ref5_1) und [5.2](#ref5_2) beschriebenen Fälle und Entscheidungen, für die ein anderes Verfahren von der Mitgliederversammlung festgelegt wird.
+8. Beschlüsse der Mitgliederversammlung werden mit einfacher Stimmenmehrheit gefasst, mit Ausnahme der in [Punkten 5.1](#ref5_1) und [5.2](#ref5_2) beschriebenen Fälle und Entscheidungen, für die ein anderes Verfahren von der Mitgliederversammlung festgelegt wird.
 9. Zu den Befugnissen der Mitgliederversammlung gehören:
     - Genehmigung der Statuten und deren Änderungen.
     - Wahl der Mitglieder des Vorstands.
@@ -191,7 +191,7 @@ title: Устав организации «**ПОЛНОЕ НАЗВАНИЕ НА 
 1. Der Vorstand ist ein ständiges Organ, das die tägliche Arbeit des Vereins koordiniert.
 2. Die Organisation der Mitgliederversammlung wird vom amtierenden Vorstand übernommen. Der Vorstand kann diese Aufgabe an eine geeignete Arbeitsgruppe oder eine externe Organisation delegieren.
 3. Der Vorstand wird von der Mitgliederversammlung für **2 Jahre / 4 Jahre / 6 Jahre** gewählt.  Bei entsprechendem Beschluss des Senats oder der Initiativgruppe, oder bei Nichterfüllung der Aufgaben der Organisation der Mitgliederversammlung, wird Vorstand auch vorzeitig gewählt.
-4. Jedes Mitglied des Vorstands darf höchstens **3 / 4 Amtszeiten** im Vorstand tätig sein. / diesen Punkt nicht zu berücksichtigen.
+4. Jedes Mitglied des Vorstands darf höchstens **3 / 4 Amtszeiten / diesen Punkt nicht zu berücksichtigen** im Vorstand tätig sein. 
 5. Die Anzahl der Mitglieder des Vorstands wird von der Mitgliederversammlung festgelegt, kann aber nicht **weniger als 3 / 5 / 7 und mehr als 11 / 13 / 15** Mitglieder des Vereins betragen. Verringert sich die Zahl der Vorstandsmitglieder über die Untergrenze hinaus, so ist eine Mitgliederversammlung zur Neuwahl der Vorstandsmitglieder abzuhalten.
 6. Personen, die den Verein vor Behörden, Banken und anderen Organisationen vertreten können, werden vom Vorstand bestimmt. Der Inhalt von Verträgen, die von autorisierten Personen unterzeichnet werden, muss zuvor vom Vorstand genehmigt werden. Zur Verfügung über das Bankkonto des Vereins genügt die Unterschrift von zwei vom Vorstand autorisierten Personen.
 7. Die Befugnisse des Vorstands:
@@ -222,7 +222,7 @@ title: Устав организации «**ПОЛНОЕ НАЗВАНИЕ НА 
     - Danach wird das Vertretungsrecht der Studentenorganisation, die die nationale Studentenmeisterschaft ausrichtet, oder dem Organisationskomitee dieser Meisterschaft eingeräumt, sofern sie nicht von der in einem der vorstehenden Absätze genannten Organisation ausgerichtet wird.
     - Das Recht auf Vertretung im Senat wird dem Organisationskomitee der nationalen Schüler-Meisterschaft zugeteilt, sofern diese nicht von der in einem der vorstehenden Absätze genannten Organisation durchgeführt wird.
     - Weitere Plätze werden an regionale Organisationen vergeben, die im Senat vertreten sein wollen, aber nicht unter die vorherigen Punkte fallen.
-    - In Ermangelung entsprechender Organisationen können die Senatoren in der Mitgliederversammlung von den Vertretern des Landes gewählt werden, das im Senat vertreten sein möchte und unter die Bedingungen des [Abschnitts 4.4.3](#ref_p2_4_4_3) fällt.
+    - In Ermangelung entsprechender Organisationen können die Senatoren in der Mitgliederversammlung von den Vertretern des Landes gewählt werden, das im Senat vertreten sein möchte und unter die Bedingungen des [Punkts 4.4.3](#ref_p2_4_4_3) fällt.
 
     Im Falle eines Streits über die Teilnahme am Senat kann eine Abstimmung zwischen den Vertretern der Länder stattfinden. In diesem Fall wird die Abstimmung durch den Vorstand organisiert. **ВАРИАНТ 1**
 3. **ВАРИАНТ 2** Der Senat besteht aus ständigen und zusätzlichen Vertretern des Landes; sie sind als Mitglieder des Senats gleichberechtigt. Die Vertreter sind nicht verpflichtet, Mitglieder des Vereins zu sein.
@@ -298,7 +298,7 @@ Die organisatorische Struktur des Vereins umfasst die folgenden Organe:
 3. Die Mitglieder des Vereins müssen spätestens 21 Tage im voraus über die nächste Versammlung informiert werden. Die Benachrichtigung per E-Mail ist zulässig.
 4. Der Vorstand legt die Tagesordnung der Versammlung fest, bestimmt den Ablauf der Versammlung, wählt den Versammlungsleiter. Alle Arbeitsausschüsse und Initiativgruppen haben das Recht, die Themen zur Tagesordnung hinzuzufügen. Die folgenden Themen werden automatisch in die Tagesordnung aufgenommen:
     1. Erneuerung der Befugnisse der aktuellen Zusammensetzung des Vorstands oder Neuwahl des Vorstands.
-    1. Zustimmung zu den in [Abschnitt 4.2.7.2](#ref_p3_4_2_7_2) aufgeführten Dokumenten.
+    1. Zustimmung zu den in [Punkt 4.2.7.2](#ref_p3_4_2_7_2) aufgeführten Dokumenten.
     1. Beschlüsse der Arbeitsausschüsse, die nach den Ordnungen der jeweiligen Arbeitsausschüsse der Genehmigung durch die Versammlung bedürfen.
 5. Die Mitgliederversammlung findet als Präsenzveranstaltung oder in Form einer Online-Konferenz unter Einsatz von Technologien statt, die eine Identifizierung der Teilnehmer ermöglichen. Im Falle einer Präsenzversammlung müssen eine Online-Übertragung und eine Fernabstimmung gewährleistet sein. Eine Übertragung von Stimmen ist nicht zulässig.
 6. Eine Versammlung ist beschlussfähig, wenn 10 % der tatsächlichen Mitgliederzahl anwesend sind.
@@ -357,8 +357,8 @@ Die organisatorische Struktur des Vereins umfasst die folgenden Organe:
 
 # Schlussbestimmungen
 
-1. <a name="ref5_1"></a>Ein Beschluss zur Änderung der Statuten kann von der Mitgliederversammlung nur mit der Unterstützung von mindestens **2/3 der Versammlungsteilnehmer / 2/3 der Versammlungsteilnehmer mit erhöhtem Quorum / 2/3 der Versammlungsteilnehmer, wenn sie die Mehrheit des Vereins bilden**, gefasst werden.
-2. <a name="ref5_2"></a>Ein Beschluss über die Auflösung des Vereins kann von der Mitgliederversammlung nur mit Unterstützung von mindestens **3/4 der Teilnehmer der Mitgliederversammlung / 2/3 der Teilnehmer an der Mitgliederversammlung, wenn sie die Mehrheit der Mitglieder des Vereins bilden / 2/3 der Mitglieder des Vereins** gefasst werden.
+1. <a name="ref5_1"></a>Ein Beschluss zur Änderung der Statuten kann von der Mitgliederversammlung nur mit der Unterstützung von mindestens **2/3 der Versammlungsteilnehmer / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder**, gefasst werden.
+2. <a name="ref5_2"></a>Ein Beschluss über die Auflösung des Vereins kann von der Mitgliederversammlung nur mit Unterstützung von mindestens **3/4 der Teilnehmer der Mitgliederversammlung / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder** gefasst werden.
 3. Im Falle der Auflösung des Vereins wird sein Vermögen gemäß dem Beschluss der Mitgliederversammlung verteilt.
 4. Die Statuen sind in zwei Sprachen abgefasst: Deutsch und Russisch. Der Text in deutscher Sprache ist rechtswirksam. Bei Unstimmigkeiten zwischen dem deutschen und dem russischen Text oder bei unterschiedlichen Auslegungen ist der deutsche Text maßgebend.
 5. Die Statuten wurden von der Gründungsversammlung des Vereins am 11. April 2021 angenommen und treten ab sofort in Kraft.
