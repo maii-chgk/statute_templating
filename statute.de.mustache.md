@@ -1,0 +1,96 @@
+---
+title: Устав организации «{{ name.full.de }}»
+---
+
+# Allgemeine Bestimmungen
+
+1. Unter dem Namen {{ name.full.de }} (nachstehend: der Verein) besteht ein Verein im Sinne der Art. 246 ff. des Personen- und Gesellschaftsrechts (PGR) des Fürstentums Liechtenstein.
+2. Der Vollständiger Name des Vereins in deutscher Sprache ist “{{ name.full.de }}”, Kurzname des Vereins in deutscher Sprache ist “{{ name.short.de }}”, vollständiger Name des Vereins in russischer Sprache ist “{{ name.full.ru }}”, Kurzname des Vereins in russischer Sprache ist “{{ name.short.ru }}”.
+3. Der Sitz des Vereins ist in Triesen. Der Sitz kann durch die Mitgliederversammlung geändert werden.
+4. Die Tätigkeit des Vereins ist nicht auf Gewinn ausgerichtet.
+5. Der Verein ist politisch neutral.
+6. Zur Verfolgung der Vereinszwecken verfügt der Verein über folgende Mittel: Mitgliederbeiträge, falls die Mitgliederversammlung Mitgliederbeiträge festlegt, Erträge aus eigenen Veranstaltungen, Subventionen, Erträge aus Dienstleistungen, Spenden und Zuwendungen aller Art.
+7. Der Verein hält sich an die Grundsätze der Vertraulichkeit und des Schutzes personenbezogener Daten und handelt in diesem Sinne gemäß den nationalen und internationalen Rechtsvorschriften.
+8. Die offiziellen Sprachen des Vereins sind Deutsch und Russisch. Dokumente, die sich auf die Tätigkeit der Organisation als juristische Person beziehen, werden in deutscher Sprache geführt oder haben eine deutschsprachige Fassung. Bei Unstimmigkeiten zwischen dem deutschen und dem russischen Text oder bei unterschiedlicher Auslegung ist der deutsche Text maßgebend.
+
+
+# Die Zwecke und Aufgaben des Vereins
+
+## Die Zwecke des Vereins
+
+1. Die Förderung und Popularisierung existierender intellektueller Spielen und die Entwicklung neuer intellektueller Spielen. Als “Intellektuelle Spiele” werden im Folgenden mannschafts- oder individuelle Wettkämpfe definiert, deren Zweck darin besteht, Antworten auf vorbereitete Fragen zu finden. Die Wettkämpfe werden mit einer Zeitbegrenzung und/oder als Geschwindigkeits-Wettkampf ausgetragen.
+2. Die Entwicklung der intellektuellen Kreativität der Teilnehmer, Unterstützung der Autoren und Editoren von Spielaufgaben.
+3. Die Entwicklung der intellektuellen Bewegung bei Kindern und Jugendlichen, Unterstützung der Trainer und Veranstalter der Wettkämpfe für Kinder und Jugendlichen.
+4. Die Durchführung der Wettkämpfe für intellektuelle Spiele  in Übereinstimmung mit den Sportprinzipien.
+5. Die Erhöhung der Zugänglichkeit von intellektuellen Spielen für Bewohner verschiedener Länder, Sprecher verschiedener Sprachen, Personen mit Behinderungen usw.
+
+## Die Aufgaben des Vereins
+
+1. Definition, Kodifizierung und Weiterentwicklung des Regelwerks für die Spieldisziplinen und Wettkämpfe.
+2. Teilnahme an Veranstaltung der Wettkämpfe für intellektuelle Spiele auf regionalen, nationalen und internationalen Ebenen.
+3. Durchführung von Veranstaltungen zur Förderung intellektueller Spiele, zur geografische Verbreitung der Bewegung und zur Gewinnung neuer Teilnehmer.
+4. Sicherstellung der Sportlichkeit der Wettbewerbe, was die Einhaltung der Regeln, die Nichtdiskriminierung bei der Zulassung zu den Wettbewerben, die Kontrolle der Einhaltung der Regeln durch die Teilnehmer beinhaltet.
+5. Organisatorische, informationelle, methodische und technische Unterstützung für Wettkampfveranstalter, Spieler, Autoren und Editoren von Spielaufgaben, Schiedsrichtern, Moderatoren und Mannschaftstrainern.
+6. Festlegung von Normen der Spielethik und Kontrolle über deren Einhaltung.
+7. Informationsunterstützung von Wettbewerben, Pflege von Spielstatistiken, Erstellung und Unterstützung von Ressourcen für die Speicherung von Spielmaterialien und Wettbewerbsergebnissen, Informationen über die Geschichte der Bewegung.
+
+# Членство в организации
+
+## Allgemeine Bestimmungen
+
+1. Die Mitgliedschaft in dem Verein ist eine individuelle Mitgliedschaft.
+2. Das Mitgliederverzeichnis wird vom Vorstand geführt, der berechtigt ist, diese Aufgabe an ein anderes Organ zu delegieren.
+3. Die Befugnis zur Eintritt und zum Ausschluss von Mitgliedern obliegt der Mitgliederversammlung, kann aber an ein anderes Organ delegiert werden.
+
+## Eintritt zum Verein
+
+1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per E-Mail eingereichten Antrags.
+2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von {{ membership.denialTime }} Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem bevollmächtigten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
+{{#membership.formal}}
+3. {{membership.formal}} Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
+{{/membership.formal}}
+{{#membership.missed}}
+4. {{membership.missed}} Ein Vereinmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
+{{/membership.missed}}
+
+## Beendigung der Mitgliedschaft
+
+1. Für den freiwilligen Austritt aus dem Verein genügt eine Mitteilung in Schriftform oder per E-Mail. Die Mitgliedschaft gilt mit dem Eingang des Antrags als automatisch beendet.
+{{#membership.sanctions}}
+2. {{membership.sanctions}} Für den Fall, dass der Verein disziplinarische Sanktionen gegen sein Mitglied verhängt, ist eine Suspendierung seiner Mitgliedschaft für die Dauer der Sanktionen möglich. Die Suspendierung  der Mitgliedschaft bedeutet die Unfähigkeit zur Teilnahme an den Mitgliederversammlungen und an der Arbeit der Organe des Vereins. Die Mitgliedschaft kann durch die Mitgliederversammlung oder das Organ, dem die Mitgliederversammlung diese Befugnis übertragen hat, suspendiert werden.
+{{/membership.sanctions}}
+3. Als Gründe für einen Ausschluss aus den Verein können gelten:
+    - Beschluss der Mitgliederversammlung.
+    - Nichtzahlung der Mitgliedsbeiträgen (sofern dieser von der Mitgliederversammlung festzusetzen sind).
+    - Nichtteilnahme an der Neuanmeldung von Mitgliedern (wenn dieses Verfahren von der Mitgliederversammlung festgelegt wird).
+4. Bei Ausschluss durch Beschluss der Mitgliederversammlung ist ein Wiedereintritt in den Verein nur durch den Beschluss der Mitgliederversammlung möglich.
+
+## Rechte und Pflichten der Mitglieder
+
+1. Die Mitglieder des Vereins haben das Recht:
+    - sich mit persönlichen Initiativen, die mit den Aktivitäten des Vereins zusammenhängen, an die Organe des Vereins zu wenden.
+    - Initiativgruppen für die Einberufung der Mitgliederversammlung, die Einführung von Themen in die Tagesordnung der Mitgliederversammlung und die Förderung anderer kollektiver Initiativen zu bilden. Die Handlung der Initiativgruppe ist jeder Aufruf, der von mindestens {{membership.initiativeSize}} der Anzahl der tatsächlichen Mitglieder des Vereins unterzeichnet ist.
+    - Die Informationen von den Organen des Vereins über die getroffenen Entscheidungen zu erhalten: die Begründung, den Ablauf der Annahme, die Ergebnisse der namentlichen Abstimmung.
+
+2. Die Mitglieder des Vereins sind verpflichtet:
+    - Die Bestimmungen der Statuten sowie anderer normativer Dokumente des Vereins einzuhalten.
+    - Die Entscheidungen der Organe des Vereins zu befolgen.
+    - Die Mitgliedsbeiträge fristgerecht zu zahlen, wenn sie von der Mitgliederversammlung festgesetzt werden.
+
+{{#s1}}
+{{> struct-1.de.md}}
+{{/s1}}
+{{#s2}}
+{{> struct-2.de.md}}
+{{/s2}}
+{{#s3}}
+{{> struct-3.de.md}}
+{{/s3}}
+
+# Schlussbestimmungen
+
+1. <a name="ref5_1"></a>Ein Beschluss zur Änderung der Statuten kann von der Mitgliederversammlung nur mit der Unterstützung von mindestens {{quorum.statute_de}}, gefasst werden.
+2. <a name="ref5_2"></a>Ein Beschluss über die Auflösung des Vereins kann von der Mitgliederversammlung nur mit Unterstützung von mindestens {{quorum.dissolution_de}} gefasst werden.
+3. Im Falle der Auflösung des Vereins wird sein Vermögen gemäß dem Beschluss der Mitgliederversammlung verteilt.
+4. Die Statuen sind in zwei Sprachen abgefasst: Deutsch und Russisch. Der Text in deutscher Sprache ist rechtswirksam. Bei Unstimmigkeiten zwischen dem deutschen und dem russischen Text oder bei unterschiedlichen Auslegungen ist der deutsche Text maßgebend.
+5. Die Statuten wurden von der Gründungsversammlung des Vereins am 11. April 2021 angenommen und treten ab sofort in Kraft.
