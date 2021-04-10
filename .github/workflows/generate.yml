@@ -18,14 +18,14 @@ jobs:
         run: sudo apt-get install ruby-mustache
 
       - name: Generate new statute version
-        run: make clean && make statute.md
+        run: make clean && make statute.de.md statute.ru.md
 
       - name: Commit files
         id: commit
         run: |
           git config --local user.email "action@github.com"
             git config --local user.name "github-actions"
-            git add statute.md
+            git add statute.de.md statute.ru.md
             if [-z "$(git status --porcelain)"]; then
                echo "::set-output name=push::false"
             else
