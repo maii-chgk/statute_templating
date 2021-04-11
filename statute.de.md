@@ -1,11 +1,11 @@
 ---
-title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦКОМ ЯЗЫКЕ**»
+title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spiele»
 ---
 
 # Allgemeine Bestimmungen
 
-1. Unter dem Namen **ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦКОМ ЯЗЫКЕ** (nachstehend: der Verein) besteht ein Verein im Sinne der Art. 246 ff. des Personen- und Gesellschaftsrechts (PGR) des Fürstentums Liechtenstein.
-2. Der Vollständiger Name des Vereins in deutscher Sprache ist “**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦКОМ ЯЗЫКЕ**”, Kurzname des Vereins in deutscher Sprache ist “**СОКРАЩЁННОЕ НАЗВАНИЕ НА НЕМЕЦКОМ ЯЗЫКЕ**”, vollständiger Name des Vereins in russischer Sprache ist “**ПОЛНОЕ НАЗВАНИЕ НА РУССКОМ ЯЗЫКЕ**”, Kurzname des Vereins in russischer Sprache ist “**СОКРАЩЁННОЕ НАЗВАНИЕ НА РУССКОМ ЯЗЫКЕ**”.
+1. Unter dem Namen Internationale Assoziation für Intellektuelle Spiele (nachstehend: der Verein) besteht ein Verein im Sinne der Art. 246 ff. des Personen- und Gesellschaftsrechts (PGR) des Fürstentums Liechtenstein.
+2. Der Vollständiger Name des Vereins in deutscher Sprache ist “Internationale Assoziation für Intellektuelle Spiele”, Kurzname des Vereins in deutscher Sprache ist “IAIS”, vollständiger Name des Vereins in russischer Sprache ist “Международная ассоциация интеллектуальных игр”, Kurzname des Vereins in russischer Sprache ist “МАИИ”.
 3. Der Sitz des Vereins ist in Triesen. Der Sitz kann durch die Mitgliederversammlung geändert werden.
 4. Die Tätigkeit des Vereins ist nicht auf Gewinn ausgerichtet.
 5. Der Verein ist politisch neutral.
@@ -45,8 +45,8 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
 ## Eintritt zum Verein
 
 1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per E-Mail eingereichten Antrags.
-2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von **7 / 14 / 21** Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
-3. **ОПЦИЯ** Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
+2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von 14 Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
+3.  Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
 4. **ОПЦИЯ** Ein Vereinmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
 
 ## Beendigung der Mitgliedschaft
