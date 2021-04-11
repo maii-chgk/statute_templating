@@ -21,8 +21,8 @@
     "quorum": "25 %",
     "executiveTime": "2 года",
     "executiveTime_de": "2 Jahre",
-    "executiveCount": "**менее 5 и более 15 / менее 5 и более 11**",
-    "executiveCount_de": "**weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11**"
+    "executiveCount": "менее 5 и более 15",
+    "executiveCount_de": "weniger als 5 und mehr als 15"
   },
   "s2": false,
   "s3": false,
