@@ -47,7 +47,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per E-Mail eingereichten Antrags.
 2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von 14 Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
 3.  Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
-4. **ОПЦИЯ** Ein Vereinmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
+4.  Ein Vereinmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
 
 ## Beendigung der Mitgliedschaft
 
