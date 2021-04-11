@@ -17,6 +17,9 @@ jobs:
       - name: Install mustache
         run: sudo apt-get install ruby-mustache
 
+      - name: Install pandoc
+        run: sudo apt-get install pandoc
+
       - name: Generate new statute version
         run: make clean && make statute.de.md statute.ru.md && make statute.ru.docx statute.de.docx
 
