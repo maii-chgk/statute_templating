@@ -103,7 +103,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 1. Der Vorstand ist das Organ, das die laufende Arbeit des Vereins sicherstellt.
 2. Die Amtszeit der Vorstand-mitglieder beträgt 2 Jahre. 
-3. Die Anzahl der Mitglieder des Vorstands wird von der Mitgliederversammlung festgelegt, kann aber nicht **weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11** betragen. Verringert sich die Zahl der Vorstandsmitglieder über die Untergrenze hinaus, so ist in der nächsten Mitgliederversammlung eine Nachwahl für die frei werdenden Sitze im Vorstand vorzunehmen.
+3. Die Anzahl der Mitglieder des Vorstands wird von der Mitgliederversammlung festgelegt, kann aber nicht weniger als 5 und mehr als 15 betragen. Verringert sich die Zahl der Vorstandsmitglieder über die Untergrenze hinaus, so ist in der nächsten Mitgliederversammlung eine Nachwahl für die frei werdenden Sitze im Vorstand vorzunehmen.
 4. Der Vorstand:
     - Bestimmt die Termine der Mitgliederversammlungen, gestaltet und veröffentlicht deren Tagesordnung.
     - Organisiert die Mitgliederversammlungen.
