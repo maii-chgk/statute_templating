@@ -102,7 +102,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 ## Vorstand
 
 1. Der Vorstand ist das Organ, das die laufende Arbeit des Vereins sicherstellt.
-2. Die Amtszeit der Vorstand-mitglieder beträgt **1 Jahre / 2 Jahre / 4 Jahre**. 
+2. Die Amtszeit der Vorstand-mitglieder beträgt 2 Jahre. 
 3. Die Anzahl der Mitglieder des Vorstands wird von der Mitgliederversammlung festgelegt, kann aber nicht **weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11** betragen. Verringert sich die Zahl der Vorstandsmitglieder über die Untergrenze hinaus, so ist in der nächsten Mitgliederversammlung eine Nachwahl für die frei werdenden Sitze im Vorstand vorzunehmen.
 4. Der Vorstand:
     - Bestimmt die Termine der Mitgliederversammlungen, gestaltet und veröffentlicht deren Tagesordnung.
@@ -133,7 +133,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 ## Der Kontrollausschuss
 
 1. Der Kontrollausschuss ist ein ständiges Organ, das die Arbeit anderer Organe bewertet und überwacht.
-2. Die Amtszeit der Mitglieder des Kontrollausschusses beträgt **1 Jahre / 2 Jahre / 4 Jahre**.
+2. Die Amtszeit der Mitglieder des Kontrollausschusses beträgt 2 Jahre.
 3. Die Anzahl der Mitglieder des Kontrollausschusses wird von der Mitgliederversammlung festgelegt, muss aber mindestens 3 betragen.
 4. Ein Mitglied des Kontrollausschusses kann nicht gleichzeitig Mitglied des Vorstands oder einer Arbeitsgruppe sein.
 5. Der Kontrollausschuss:
