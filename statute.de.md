@@ -72,7 +72,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
     - Die Mitgliedsbeiträge fristgerecht zu zahlen, wenn sie von der Mitgliederversammlung festgesetzt werden.
 
 
-# **ПРОЕКТ 1** Aufbau des Vereins
+#  Aufbau des Vereins
 
 ## Allgemeine Bestimmungen
 
@@ -150,9 +150,9 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 1. Um die Aktivitäten des Vereins in einem bestimmten Staat oder einer bestimmten Region zu koordinieren, können territoriale Vereinigungen von Mitgliedern gegründet werden, deren Status und Befugnisse von der Mitgliederversammlung bestimmt werden.
 
-**ПРОЕКТ 1**
 
-# **ПРОЕКТ 2** Aufbau des Vereins
+
+# false Aufbau des Vereins
 
 ## Allgemeine Bestimmungen
 
@@ -273,9 +273,9 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
     - Kann die Einberufung der Mitgliederversammlung veranlassen.
     - Kann Themen zur Tagesordnung der Mitgliederversammlung hinzufügen.
 
-**ПРОЕКТ 2**
+false
 
-# **ПРОЕКТ 3** Aufbau des Vereins
+# false Aufbau des Vereins
 
 ## Liste der Organe
 
@@ -353,7 +353,7 @@ Die organisatorische Struktur des Vereins umfasst die folgenden Organe:
 2. Die Tätigkeit der territorialen Verbände im Allgemeinen wird durch die Satzung.
 3. Die Tätigkeit eines bestimmten territorialen Verbandes kann durch eine eigene Satzung geregelt werden, sofern diese nicht im Widerspruch zu den allgemeinen Satzungen der territoriale Verbände steht.
 
-**ПРОЕКТ 3**
+false
 
 # Schlussbestimmungen
 
