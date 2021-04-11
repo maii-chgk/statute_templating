@@ -86,7 +86,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 3. Die Mitgliederversammlung kann auf Initiative jedes Organs oder jeder Initiativgruppe einberufen werden. Bestimmt der Vorstand den Termin der Mitgliederversammlung nicht innerhalb von 1 Monat nach Antragstellung, so kann der Einberufer den Termin der Mitgliederversammlung bestimmen.
 4. Die Mitglieder des Vereins sind spätestens 21 Tage vor der Mitgliederversammlung in schriftlicher oder elektronischer Form zur Mitgliederversammlung einzuladen.
 5. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand spätestens 14 Tage vor der Versammlung aufgestellt und veröffentlicht. Das Recht, Themen in die Tagesordnung einzubringen, haben alle Organe sowie Initiativgruppen. Im letzteren Fall kann das Thema auch nach der Veröffentlichung auf die Tagesordnung gesetzt werden.
-6. Die Beschlussfähigkeit der Mitgliederversammlung beträgt **10 % / 20 % / 25 %** der Mitglieder, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
+6. Die Beschlussfähigkeit der Mitgliederversammlung beträgt 25 % der Mitglieder, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
 7. Beschlüsse der Mitgliederversammlung werden mit einfacher Stimmenmehrheit gefasst, mit Ausnahme der in [Punkten 5.1](#ref5_1) und [5.2](#ref5_2) beschriebenen Fälle und Entscheidungen, für die ein anderes Verfahren von der Mitgliederversammlung festgelegt wird.
 8. Zur ausschließlichen Zuständigkeit der Mitgliederversammlung gehören die folgenden Angelegenheiten:
     - Annahme der Statuten und deren Änderungen.
