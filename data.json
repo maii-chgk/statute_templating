@@ -27,8 +27,8 @@
   "s2": false,
   "s3": false,
   "quorum": {
-    "statute": "**2/3 участников заседания / 2/3 участников заседания при кворуме 50 % / 2/3 членов Организации**",
-    "statute_de": "**2/3 der Versammlungsteilnehmer / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder**",
+    "statute": "2/3 участников заседания при кворуме 50 %",
+    "statute_de": "2/3 der Versammlung mit einem Quorum von 50%",
     "dissolution": "**3/4 участников заседания / 2/3 участников заседания при кворуме 50 % / 2/3 членов Организации**",
     "dissolution_de": "**3/4 der Teilnehmer der Mitgliederversammlung / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder**"
   },
