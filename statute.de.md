@@ -52,7 +52,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 ## Beendigung der Mitgliedschaft
 
 1. Für den freiwilligen Austritt aus dem Verein genügt eine Mitteilung in Schriftform oder per E-Mail. Die Mitgliedschaft gilt mit dem Eingang des Antrags als automatisch beendet.
-2. **ОПЦИЯ** Für den Fall, dass der Verein disziplinarische Sanktionen gegen sein Mitglied verhängt, ist eine Suspendierung seiner Mitgliedschaft für die Dauer der Sanktionen möglich. Die Suspendierung  der Mitgliedschaft bedeutet die Unfähigkeit zur Teilnahme an den Mitgliederversammlungen und an der Arbeit der Organe des Vereins. Die Mitgliedschaft kann durch die Mitgliederversammlung oder das Organ, dem die Mitgliederversammlung diese Befugnis übertragen hat, suspendiert werden.
+2.  Für den Fall, dass der Verein disziplinarische Sanktionen gegen sein Mitglied verhängt, ist eine Suspendierung seiner Mitgliedschaft für die Dauer der Sanktionen möglich. Die Suspendierung  der Mitgliedschaft bedeutet die Unfähigkeit zur Teilnahme an den Mitgliederversammlungen und an der Arbeit der Organe des Vereins. Die Mitgliedschaft kann durch die Mitgliederversammlung oder das Organ, dem die Mitgliederversammlung diese Befugnis übertragen hat, suspendiert werden.
 3. Als Gründe für einen Ausschluss aus den Verein können gelten:
     - Beschluss der Mitgliederversammlung.
     - Nichtzahlung der Mitgliedsbeiträgen (sofern dieser von der Mitgliederversammlung festzusetzen sind).
