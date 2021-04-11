@@ -19,8 +19,8 @@
   "s1": {
     "selected": "",
     "quorum": "25 %",
-    "executiveTime": "**1 год / 2 года / 4 года**",
-    "executiveTime_de": "**1 Jahre / 2 Jahre / 4 Jahre**",
+    "executiveTime": "2 года",
+    "executiveTime_de": "2 Jahre",
     "executiveCount": "**менее 5 и более 15 / менее 5 и более 11**",
     "executiveCount_de": "**weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11**"
   },
