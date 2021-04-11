@@ -152,7 +152,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 
 
-# false Aufbau des Vereins
+#  Aufbau des Vereins
 
 ## Allgemeine Bestimmungen
 
@@ -273,9 +273,9 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
     - Kann die Einberufung der Mitgliederversammlung veranlassen.
     - Kann Themen zur Tagesordnung der Mitgliederversammlung hinzufügen.
 
-false
 
-# false Aufbau des Vereins
+
+#  Aufbau des Vereins
 
 ## Liste der Organe
 
@@ -353,7 +353,7 @@ Die organisatorische Struktur des Vereins umfasst die folgenden Organe:
 2. Die Tätigkeit der territorialen Verbände im Allgemeinen wird durch die Satzung.
 3. Die Tätigkeit eines bestimmten territorialen Verbandes kann durch eine eigene Satzung geregelt werden, sofern diese nicht im Widerspruch zu den allgemeinen Satzungen der territoriale Verbände steht.
 
-false
+
 
 # Schlussbestimmungen
 
