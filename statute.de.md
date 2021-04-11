@@ -45,7 +45,7 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
 ## Eintritt zum Verein
 
 1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per E-Mail eingereichten Antrags.
-2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von **7 / 14 / 21** Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem bevollmächtigten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
+2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von **7 / 14 / 21** Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
 3. **ОПЦИЯ** Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
 4. **ОПЦИЯ** Ein Vereinmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
 
@@ -76,7 +76,7 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
 
 ## Allgemeine Bestimmungen
 
-1. <a name="ref_p1_4_1_1"></a>Die Organe des Vereins sind die Mitgliederversammlung, das Executive Committee (im Folgenden "Vorstand" genannt), die Arbeitsgruppen und der Prüfungsausschuss.
+1. <a name="ref_p1_4_1_1"></a>Die Organe des Vereins sind die Mitgliederversammlung, der Vorstand, die Arbeitsgruppen und der Prüfungsausschuss.
 2. In die gewählten Organe können sowohl Mitglieder als auch Nicht-Mitglieder des Vereins  gewählt werden.
 
 ## Mitgliederversammlung
@@ -85,9 +85,9 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
 2. Die Mitgliederversammlung findet als Präsenzveranstaltung oder in Form einer Online-Konferenz unter Einsatz von Technologien statt, die eine Identifizierung der Teilnehmer ermöglichen. Im Falle einer Präsenzversammlung müssen eine Online-Übertragung und eine Fernabstimmung gewährleistet sein.
 3. Die Mitgliederversammlung kann auf Initiative jedes Organs oder jeder Initiativgruppe einberufen werden. Bestimmt der Vorstand den Termin der Mitgliederversammlung nicht innerhalb von 1 Monat nach Antragstellung, so kann der Einberufer den Termin der Mitgliederversammlung bestimmen.
 4. Die Mitglieder des Vereins sind spätestens 21 Tage vor der Mitgliederversammlung in schriftlicher oder elektronischer Form zur Mitgliederversammlung einzuladen.
-5. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand spätestens 14 Tage vor der Versammlung aufgestellt und veröffentlicht. Das Recht, Themen in die Tagesordnung einzubringen, haben alle Gremien sowie Initiativgruppen. Im letzteren Fall kann das Thema auch nach der Veröffentlichung auf die Tagesordnung gesetzt werden.
+5. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand spätestens 14 Tage vor der Versammlung aufgestellt und veröffentlicht. Das Recht, Themen in die Tagesordnung einzubringen, haben alle Organe sowie Initiativgruppen. Im letzteren Fall kann das Thema auch nach der Veröffentlichung auf die Tagesordnung gesetzt werden.
 6. Die Beschlussfähigkeit der Mitgliederversammlung beträgt **10 % / 20 % / 25 %** der Mitglieder, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
-7. Beschlüsse der Mitgliederversammlung, außer denen, die in den [Punkten 5.1](#ref5_1) und [5.2](#ref5_2) beschrieben sind, werden mit einfacher Mehrheit beschlossen.
+7. Beschlüsse der Mitgliederversammlung werden mit einfacher Stimmenmehrheit gefasst, mit Ausnahme der in [Punkten 5.1](#ref5_1) und [5.2](#ref5_2) beschriebenen Fälle und Entscheidungen, für die ein anderes Verfahren von der Mitgliederversammlung festgelegt wird.
 8. Zur ausschließlichen Zuständigkeit der Mitgliederversammlung gehören die folgenden Angelegenheiten:
     - Annahme der Statuten und deren Änderungen.
     - Zustimmung zu den Dokumenten, die die Regeln der intellektuellen Spielen bestimmen.
@@ -113,7 +113,7 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
     - Verwaltet die Mittel und das Eigentum des Vereins.
     - Bereitet Berichte über seine Aktivitäten für die Mitgliederversammlung vor. Die Häufigkeit der Berichte wird von der Mitgliederversammlung festgelegt.
     - Kann andere Angelegenheiten beschließen, die nicht in die ausschließliche Zuständigkeit der Mitgliederversammlung fallen.
-5. Personen, die den Verein vor Behörden, Banken und anderen Organisationen vertreten können, werden vom Vorstand bestimmt. Der Inhalt der Verträgen, die von autorisierten Personen unterzeichnet werden, muss zuvor vom Vorstand genehmigt werden. Zur Verfügung über das Bankkonto des Vereins genügt die Unterschrift von zwei durch den Vorstand bevollmächtigten Personen.
+5. Personen, die den Verein vor Behörden, Banken und anderen Organisationen vertreten können, werden vom Vorstand bestimmt. Der Inhalt der Verträgen, die von autorisierten Personen unterzeichnet werden, muss zuvor vom Vorstand genehmigt werden. Zur Verfügung über das Bankkonto des Vereins genügt die Unterschrift von zwei durch den Vorstand autorisierten Personen.
 
 ## Arbeitsgruppen
 
@@ -172,7 +172,7 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
 4. Die Einberufung der Mitgliederversammlung ist auf Initiative des Vorstands, des Senats oder einer Initiativgruppe möglich. Bestimmt der Vorstand den Termin der Mitgliederversammlung nicht innerhalb von 1 Monat nach Antragstellung, so kann der Einberufer den Termin der Mitgliederversammlung bestimmen.
 5. Die Mitgliederversammlung ist allen Mitgliedern mindestens 30 Tage im Voraus anzukündigen. Eine Benachrichtigung per E-Mail ist zulässig. Die Tagesordnung der Mitgliederversammlung ist spätestens 14 Tage vor der Sitzung zu veröffentlichen.
 6. Die Tagesordnung der Mitgliederversammlung wird vom Vorstand aufgestellt. Der Vorstand ist verpflichtet, die Themen in die Tagesordnung aufzunehmen, deren Besprechung in der Mitgliederversammlung vom Senat, den Arbeitsgruppen oder einer Initiativgruppe für notwendig erklärt wurde. Nur eine Initiativgruppe kann nach der Veröffentlichung Themen zur Tagesordnung hinzufügen.
-7. Die Mitgliederversammlung ist beschlussfähig mit **10 % / 30 % / 50 % der Vollmitglieder (bzw. 10 % / 20 % / 30 % der Vollmitglieder im Falle der nicht gewählten Option der Vollmitgliedschaft)**, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
+7. Die Mitgliederversammlung ist beschlussfähig mit **10 % / 30 % / 50 % der Vollmitglieder (bzw. 10 % / 20 % / 30 % der Vollmitgliedert)**, unabhängig davon, ob die Versammlung persönlich oder online abgehalten wird. Eine Übertragung der Stimmrechte ist nicht zulässig.
 8. Beschlüsse der Mitgliederversammlung werden mit einfacher Stimmenmehrheit gefasst, mit Ausnahme der in [Punkten 5.1](#ref5_1) und [5.2](#ref5_2) beschriebenen Fälle und Entscheidungen, für die ein anderes Verfahren von der Mitgliederversammlung festgelegt wird.
 9. Zu den Befugnissen der Mitgliederversammlung gehören:
     - Genehmigung der Statuten und deren Änderungen.
@@ -210,12 +210,12 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
 1. Der Senat ist das Vertretungsorgan der regionalen Organisationen. Unter der regionalen Organisation versteht man eine Vereinigung, die die Interessen und Rechte der Teilnehmer der Wettkämpfe für intellektuellen Spiele in den Ländern und Regionen schützt.
 2. Vertreter von Organisationen, die gegenüber dem Vorstand ihren Wunsch erklärt haben, sind berechtigt, Mitglieder des Senats zu sein, wobei eine Organisation eine Stimme erhält, unabhängig von der Größe und Zusammensetzung der Organisation. Die Wahl der ersten Zusammensetzung des Senats erfolgt in der nächsten Mitgliederversammlung nach der Gründungsversammlung.
 3. **ВАРИАНТ 1** <a name="ref_p2_4_4_3"></a>Es dürfen nicht mehr regionale Organisationen aus einem Land am Senat teilnehmen, als:
-    - 5 für Länder mit mehr als 1.000 aktiven Teams,
-    - 3 für Länder mit 251 bis 1000 aktiven Teams, 
-    - 2 für Länder mit 101-250 aktiven Teams, 
-    - 1 für Länder mit 11-100 aktiven Teams.
+    - 5 für Länder mit mehr als 1.000 aktiven Mannschaften,
+    - 3 für Länder mit 251 bis 1000 aktiven Mannschaften, 
+    - 2 für Länder mit 101-250 aktiven Mannschaften, 
+    - 1 für Länder mit 11-100 aktiven Mannschaften.
 
-    Länder mit weniger als 10 aktiven Teams dürfen nicht im Senat vertreten sein, können sich aber mit Vertretern aus einem anderen Land zusammenschließen, um die erforderliche Anzahl aktiver Teams zu erreichen. Ein aktives Mannschaft ist definiert als eine Mannschaft, die im letzten Jahr an mindestens einem von dem Verein anerkannten Wettbewerb teilgenommen hat.
+    Länder mit weniger als 10 aktiven Mannschaften dürfen nicht im Senat vertreten sein, können sich aber mit Vertretern aus einem anderen Land zusammenschließen, um die erforderliche Anzahl aktiver Mannschaften zu erreichen. Ein aktives Mannschaft ist definiert als eine Mannschaft, die im letzten Jahr an mindestens einem von dem Verein anerkannten Wettbewerb teilgenommen hat.
 4. Regionale Organisationen, die mehr als ein Land vertreten, werden berechnet durch die Summe der Vertreter dieser Länder abzüglich der Anzahl der Sitze, die bereits von den regionalen Organisationen der Länder belegt sind. Bei Streitigkeiten um einen Platz hat die Regionalorganisation, die ein bestimmtes Land vertritt, Vorrang.
 5. Die Organisationen, die im Senat vertreten sind, werden von der Mitgliederversammlung bestimmt, wobei die Sitze in der folgende Reihenfolge vergeben werden:
     - das vorrangige Vertretungsrecht ist für den nationalen Dachverband vorgesehen, der die nationale Meisterschaft ausrichtet, oder für das Organisationskomitee der nationalen Meisterschaft, wenn es eine solche Dachverband nicht gibt.
@@ -235,7 +235,7 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
 9. Jede Mitgliedsorganisation des Senats hat das Recht:
     - Eine Diskussion über ein Thema im Senat zu initiieren.
     - Den Vertreter auszuwechseln.
-    - Im Senat über die zur Diskussion stehenden Angelegenheiten abzustimmen. Jeder Beschluss wird bei Anwesenheit der einfachen Mehrheit der stimmberechtigten Mitglieder gefasst.
+    - Im Senat über die zur Diskussion stehenden Angelegenheiten abzustimmen. Jede Entscheidung wird mit einfacher Mehrheit der Abstimmenden getroffen.
 10. Jede Mitgliedsorganisation des Senats muss einen Vertreter für Senatssitzungen benennen. Nimmt eine Organisation an 5 oder mehr Sitzungen des Senats nicht teil, stellt sich die Frage nach ihrem Ausschluss aus dem Senat.
 11. Der Senat hat Befugnisse:
     - Einberufung einer Mitgliederversammlung, beim Erreichen von **½ / ⅔ / ¾** der Stimmen des Senats.
@@ -244,7 +244,7 @@ title: Statuten des Vereins «**ПОЛНОЕ НАЗВАНИЕ НА НЕМЕЦК�
     - Erstellung eines jährlichen Berichts über die Aktivitäten des Senats.
     - Anfechtung der Beschlüsse des Vorstands und der Arbeitsgruppen. In diesem Fall ist der angefochtene Beschluss in der nächsten Mitgliederversammlung zu behandeln.
     - Einleitung des Prozesses der Gründung/Auflösung von Arbeitsgruppen, wobei sichergestellt wird, dass diese bis zur Zustimmung der Mitgliederversammlung provisorisch funktionieren;
-    - Delegieren seiner Funktionen und Befugnisse ganz oder teilweise an andere Organe mit dem Recht, diese später zu entziehen.
+    - Delegierung seiner Funktionen und Befugnisse ganz oder teilweise an andere Organe mit dem Recht, diese später zu entziehen.
 
 ## Arbeitsgruppen
 
@@ -310,7 +310,7 @@ Die organisatorische Struktur des Vereins umfasst die folgenden Organe:
     1. Entscheidung über Einführung, Änderung, Aufhebung von Mitgliedsbeiträgen.
     1. Die Genehmigung von Änderungen der Statuten.
     1. Die Auflösung des Vereins.
-8. Die unübertragbaren Befugnisse der Versammlung mit der Möglichkeit, diese Befugnisse durch Beschluss der Versammlung an andere Organe zu delegieren, sind:
+8. Die unabdingbaren Befugnisse der Versammlung mit der Möglichkeit, diese Befugnisse durch Beschluss der Versammlung an andere Organe zu delegieren, sind:
     1. Der Eintritt neuer Mitglieder in den Verein und den Ausschluss von der Mitgliedschaft im Verein.
     1. Genehmigung von Entscheidungen anderer Organe.
     1. Genehmigung des Budgets des Vereins.
@@ -334,7 +334,7 @@ Die organisatorische Struktur des Vereins umfasst die folgenden Organe:
 ## Rat der Champions
 
 1. Der Rat der Champions ist das Vertretungsorgan der derzeit stärksten Mannschaften und Spieler.
-2. Die Reihenfolge der Delegierung, das Rotationsprinzip, die Ersetzung und die Abberufung von Vertretern werden durch die von der Gründungsversammlung oder der Versammlung angenommene Satzung des Rat der Champions bestimmt. Satzung des Rat der Champions muss die aktuelle Situation in den Sportdisziplinen im Interessensbereich des Vereins berücksichtigen, sicherstellen, dass die Interessen der Teilnehmer in den verschiedenen Disziplinen, sowohl in der Team-Disziplinen als auch in der Einzel-disziplinen, respektiert werden, und eine vernünftige Rotation entsprechend den auftretenden Veränderungen gewährleisten.
+2. Die Reihenfolge der Delegierung, das Rotationsprinzip, die Ersetzung und die Abberufung von Vertretern werden durch die von der Gründungsversammlung oder der Versammlung angenommene Satzung des Rat der Champions bestimmt. Satzung des Rat der Champions muss die aktuelle Situation in den Sportdisziplinen im Interessensbereich des Vereins berücksichtigen, sicherstellen, dass die Interessen der Teilnehmer in den verschiedenen Disziplinen, sowohl in der Mannschafts-Disziplinen als auch in der Einzel-disziplinen, respektiert werden, und eine vernünftige Rotation entsprechend den auftretenden Veränderungen gewährleisten.
 3. Der Rat der Champions hat das Recht, deren Vertreter auf jeder Versammlung Rederecht zu erteilen. Die Gesamtredezeit der Redner aus dem Rat der Champions darf nicht von oben auf weniger als 10% der tatsächlichen Zeit der Versammlung begrenzt werden.
 
 ## Arbeitsausschüsse
