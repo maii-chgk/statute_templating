@@ -12,7 +12,7 @@
   "membership": {
     "denialTime": "14",
     "formal": "",
-    "missed": "**ОПЦИЯ**",
+    "missed": "",
     "sanctions": "**ОПЦИЯ**",
     "initiativeSize": "**5 % / 10 % / 15 %**"
   },
