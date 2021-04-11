@@ -17,7 +17,7 @@
     "initiativeSize": "10 %"
   },
   "s1": {
-    "selected": "**ПРОЕКТ 1**",
+    "selected": "",
     "quorum": "**10 % / 20 % / 25 %**",
     "executiveTime": "**1 год / 2 года / 4 года**",
     "executiveTime_de": "**1 Jahre / 2 Jahre / 4 Jahre**",
@@ -25,7 +25,7 @@
     "executiveCount_de": "**weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11**"
   },
   "s2": {
-    "selected": "**ПРОЕКТ 2**",
+    "selected": false,
     "revision": "**ОПЦИЯ**",
     "assemblyTime": "**1 год / 2 года / 3 года**",
     "assemblyTime_de": "**1 Jahr / 2 Jahre / 3 Jahre**",
@@ -47,7 +47,7 @@
     "separateInvestigationPunishment": "**ОПЦИЯ**"
   },
   "s3": {
-    "selected": "**ПРОЕКТ 3**"
+    "selected": false
   },
   "quorum": {
     "statute": "**2/3 участников заседания / 2/3 участников заседания при кворуме 50 % / 2/3 членов Организации**",
