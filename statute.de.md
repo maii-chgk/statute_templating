@@ -53,9 +53,9 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 1. Für den freiwilligen Austritt aus dem Verein genügt eine Mitteilung in Schriftform oder per E-Mail. Die Mitgliedschaft gilt mit dem Eingang des Antrags als automatisch beendet.
 2.  Für den Fall, dass der Verein disziplinarische Sanktionen gegen sein Mitglied verhängt, ist eine Suspendierung seiner Mitgliedschaft für die Dauer der Sanktionen möglich. Die Suspendierung  der Mitgliedschaft bedeutet die Unfähigkeit zur Teilnahme an den Mitgliederversammlungen und an der Arbeit der Organe des Vereins. Die Mitgliedschaft kann durch die Mitgliederversammlung oder das Organ, dem die Mitgliederversammlung diese Befugnis übertragen hat, suspendiert werden.
-3. Als Gründe für einen Ausschluss aus den Verein können gelten:
+3. Als Gründe für einen Ausschluss aus dem Verein können gelten:
     - Beschluss der Mitgliederversammlung.
-    - Nichtzahlung der Mitgliedsbeiträgen (sofern dieser von der Mitgliederversammlung festgesetzt sind).
+    - Nichtzahlung der Mitgliedsbeiträge (sofern dieser von der Mitgliederversammlung festgesetzt sind).
     - Nichtteilnahme an der Neuanmeldung von Mitgliedern (wenn dieses Verfahren von der Mitgliederversammlung festgelegt wird).
 4. Bei Ausschluss durch Beschluss der Mitgliederversammlung ist ein Wiedereintritt in den Verein nur durch den Beschluss der Mitgliederversammlung möglich.
 
@@ -95,7 +95,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
     - Vorzeitige Beendigung der Befugnisse anderer Organe.
     - Bildung und Auflösung der Arbeitsgruppen (mit Ausnahme der temporären), Zustimmung zu den Dokumenten, die ihre Tätigkeit regeln.
     - Gründung und Auflösung zusätzlicher, nicht in [Punkt 4.1.1](#ref_p1_4_1_1) aufgeführter Organe.
-    - Annahme von Berichte anderer Organe über deren Aktivitäten.
+    - Annahme von Berichten anderer Organe über deren Aktivitäten.
     - Festsetzung und Aufhebung von Mitgliedsbeiträgen.
     - Auflösung des Vereins.
 
@@ -113,7 +113,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
     - Verwaltet die Mittel und das Eigentum des Vereins.
     - Bereitet Berichte über seine Aktivitäten für die Mitgliederversammlung vor. Die Häufigkeit der Berichte wird von der Mitgliederversammlung festgelegt.
     - Kann andere Angelegenheiten beschließen, die nicht in die ausschließliche Zuständigkeit der Mitgliederversammlung fallen.
-5. Personen, die den Verein vor Behörden, Banken und anderen Organisationen vertreten können, werden vom Vorstand bestimmt. Der Inhalt der Verträgen, die von autorisierten Personen unterzeichnet werden, muss zuvor vom Vorstand genehmigt werden. Zur Verfügung über das Bankkonto des Vereins genügt die Unterschrift von zwei durch den Vorstand autorisierten Personen.
+5. Personen, die den Verein vor Behörden, Banken und anderen Organisationen vertreten können, werden vom Vorstand bestimmt. Der Inhalt der Verträge, die von autorisierten Personen unterzeichnet werden, muss zuvor vom Vorstand genehmigt werden. Zur Verfügung über das Bankkonto des Vereins genügt die Unterschrift von zwei durch den Vorstand autorisierten Personen.
 
 ## Arbeitsgruppen
 
@@ -155,7 +155,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 # Schlussbestimmungen
 
 1. <a name="ref5_1"></a>Ein Beschluss zur Änderung der Statuten kann von der Mitgliederversammlung nur mit der Unterstützung von mindestens 2/3 der Versammlung mit einem Quorum von 50%, gefasst werden.
-2. <a name="ref5_2"></a>Ein Beschluss über die Auflösung des Vereins kann von der Mitgliederversammlung nur mit Unterstützung von mindestens 2/3 der Vereinsmitglieder gefasst werden.
+2. <a name="ref5_2"></a>Ein Beschluss über die Auflösung des Vereins kann von der Mitgliederversammlung nur mit Unterstützung von mindestens 2/3 der gültigen Vereinsmitglieder gefasst werden.
 3. Im Falle der Auflösung des Vereins wird sein Vermögen gemäß dem Beschluss der Mitgliederversammlung verteilt.
 4. Die Statuen sind in zwei Sprachen abgefasst: Deutsch und Russisch. Der Text in deutscher Sprache ist rechtswirksam. Bei Unstimmigkeiten zwischen dem deutschen und dem russischen Text oder bei unterschiedlichen Auslegungen ist der deutsche Text maßgebend.
 5. Die Statuten wurden von der Gründungsversammlung des Vereins am 11. April 2021 angenommen und treten ab sofort in Kraft.
