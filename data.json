@@ -25,7 +25,6 @@
     "executiveCount_de": "**weniger als 5 und mehr als 15 / weniger als 5 und mehr als 11**"
   },
   "s2": {
-    "selected": null,
     "revision": "**ОПЦИЯ**",
     "assemblyTime": "**1 год / 2 года / 3 года**",
     "assemblyTime_de": "**1 Jahr / 2 Jahre / 3 Jahre**",
@@ -47,7 +46,6 @@
     "separateInvestigationPunishment": "**ОПЦИЯ**"
   },
   "s3": {
-    "selected": null
   },
   "quorum": {
     "statute": "**2/3 участников заседания / 2/3 участников заседания при кворуме 50 % / 2/3 членов Организации**",
