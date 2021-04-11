@@ -154,7 +154,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 # Schlussbestimmungen
 
-1. <a name="ref5_1"></a>Ein Beschluss zur Änderung der Statuten kann von der Mitgliederversammlung nur mit der Unterstützung von mindestens **2/3 der Versammlungsteilnehmer / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder**, gefasst werden.
+1. <a name="ref5_1"></a>Ein Beschluss zur Änderung der Statuten kann von der Mitgliederversammlung nur mit der Unterstützung von mindestens 2/3 der Versammlung mit einem Quorum von 50%, gefasst werden.
 2. <a name="ref5_2"></a>Ein Beschluss über die Auflösung des Vereins kann von der Mitgliederversammlung nur mit Unterstützung von mindestens **3/4 der Teilnehmer der Mitgliederversammlung / 2/3 der Versammlung mit einem Quorum von 50% / 2/3 der Vereinsmitglieder** gefasst werden.
 3. Im Falle der Auflösung des Vereins wird sein Vermögen gemäß dem Beschluss der Mitgliederversammlung verteilt.
 4. Die Statuen sind in zwei Sprachen abgefasst: Deutsch und Russisch. Der Text in deutscher Sprache ist rechtswirksam. Bei Unstimmigkeiten zwischen dem deutschen und dem russischen Text oder bei unterschiedlichen Auslegungen ist der deutsche Text maßgebend.
