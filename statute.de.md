@@ -28,7 +28,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 1. Definition, Kodifizierung und Weiterentwicklung des Regelwerks für die Spieldisziplinen und Wettkämpfe.
 2. Teilnahme an Veranstaltung der Wettkämpfe für intellektuelle Spiele auf regionalen, nationalen und internationalen Ebenen.
-3. Durchführung von Veranstaltungen zur Förderung intellektueller Spiele, zur geografische Verbreitung der Bewegung und zur Gewinnung neuer Teilnehmer.
+3. Durchführung von Veranstaltungen zur Förderung intellektueller Spiele, zur geografischen Verbreitung der Bewegung und zur Gewinnung neuer Teilnehmer.
 4. Sicherstellung der Sportlichkeit der Wettbewerbe, was die Einhaltung der Regeln, die Nichtdiskriminierung bei der Zulassung zu den Wettbewerben, die Kontrolle der Einhaltung der Regeln durch die Teilnehmer beinhaltet.
 5. Organisatorische, informationelle, methodische und technische Unterstützung für Wettkampfveranstalter, Spieler, Autoren und Editoren von Spielaufgaben, Schiedsrichtern, Moderatoren und Mannschaftstrainern.
 6. Festlegung von Normen der Spielethik und Kontrolle über deren Einhaltung.
@@ -40,14 +40,14 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 1. Die Mitgliedschaft in dem Verein ist eine individuelle Mitgliedschaft.
 2. Das Mitgliederverzeichnis wird vom Vorstand geführt, der berechtigt ist, diese Aufgabe an ein anderes Organ zu delegieren.
-3. Die Befugnis zur Eintritt und zum Ausschluss von Mitgliedern obliegt der Mitgliederversammlung, kann aber an ein anderes Organ delegiert werden.
+3. Die Befugnis zum Eintritt und zum Ausschluss von Mitgliedern obliegt der Mitgliederversammlung, kann aber an ein anderes Organ delegiert werden.
 
 ## Eintritt zum Verein
 
 1. Der Eintritt zum Verein erfolgt auf der Grundlage eines schriftlich oder per E-Mail eingereichten Antrags.
 2. Die Entscheidung über die Verweigerung des Eintritts zu dem Verein kann innerhalb von 14 Tagen (еin Tag entspricht dabei 24 Stunden) von der Mitgliederversammlung oder ihrem autorisierten Organ getroffen werden. Fehlt eine solche Entscheidung, wird der Antragsteller Mitglied des Vereins.
 3.  Die Mitgliederversammlung kann förmliche Kriterien beschließen, bei deren Erfüllung dem Antragsteller den Eintritt nicht verwehrt werden kann.
-4.  Ein Vereinmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
+4.  Ein Vereinsmitglied, der auf 3 aufeinanderfolgende Mitgliederversammlungen nicht anwesend war, gilt nicht mehr als gültiges Mitglied und wird bei der Berechnung der Beschlussfähigkeit bis zu seiner Teilnahme an der Mitgliederversammlung nicht mitgezählt.
 
 ## Beendigung der Mitgliedschaft
 
