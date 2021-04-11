@@ -63,7 +63,7 @@ title: Statuten des Vereins «Internationale Assoziation für Intellektuelle Spi
 
 1. Die Mitglieder des Vereins haben das Recht:
     - sich mit persönlichen Initiativen, die mit den Aktivitäten des Vereins zusammenhängen, an die Organe des Vereins zu wenden.
-    - Initiativgruppen für die Einberufung der Mitgliederversammlung, die Einführung von Themen in die Tagesordnung der Mitgliederversammlung und die Förderung anderer kollektiver Initiativen zu bilden. Die Handlung der Initiativgruppe ist jeder Aufruf, der von mindestens **5 % / 10 % / 15 %** der Anzahl der tatsächlichen Mitglieder des Vereins unterzeichnet ist.
+    - Initiativgruppen für die Einberufung der Mitgliederversammlung, die Einführung von Themen in die Tagesordnung der Mitgliederversammlung und die Förderung anderer kollektiver Initiativen zu bilden. Die Handlung der Initiativgruppe ist jeder Aufruf, der von mindestens 10 % der Anzahl der tatsächlichen Mitglieder des Vereins unterzeichnet ist.
     - Die Informationen von den Organen des Vereins über die getroffenen Entscheidungen zu erhalten: die Begründung, den Ablauf der Annahme, die Ergebnisse der namentlichen Abstimmung.
 
 2. Die Mitglieder des Vereins sind verpflichtet:
