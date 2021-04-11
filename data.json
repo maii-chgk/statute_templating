@@ -14,11 +14,11 @@
     "formal": "",
     "missed": "",
     "sanctions": "",
-    "initiativeSize": "10%"
+    "initiativeSize": "10 %"
   },
   "s1": {
     "selected": "",
-    "quorum": "25%",
+    "quorum": "25 %",
     "executiveTime": "2 года",
     "executiveTime_de": "2 Jahre",
     "executiveCount": "менее 5 и более 15",
@@ -27,10 +27,10 @@
   "s2": false,
   "s3": false,
   "quorum": {
-    "statute": "2/3 участников заседания при кворуме 50%",
+    "statute": "2/3 участников заседания при кворуме 50 %",
     "statute_de": "2/3 der Versammlung mit einem Quorum von 50%",
-    "dissolution": "2/3 членов Организации",
-    "dissolution_de": "2/3 der Vereinsmitglieder"
+    "dissolution": "2/3 действительных членов Организации",
+    "dissolution_de": "2/3 der gültigen Vereinsmitglieder"
   },
   "target": {
     "popular": true,
